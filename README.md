@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Shrejal12
+- 👀 I’m interested in Web Development Fullstack 
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on projects and fulltime workds
+- 📫 How to reach me
+- shrejaladhikari7@gmail.com, https://www.linkedin.com/in/shrejal-adhikari-5b360b225/
